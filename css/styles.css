@@ -6,6 +6,34 @@ hr {
     border-style: dotted none none;
     height: 0px;
     border-width: 10px;
-    width: 50%;
-    border-color: red;
+    width: 10%;
+    border-color: #FFC4C4;
+}
+
+img {
+    height: 200px;
+}
+
+h1 {
+    color: #850E35;
+}
+
+h2 {
+    color: #850E35;
+}
+
+h3 {
+    color: #850E35;
+}
+
+h3 {
+    color: #850E35;
+}
+
+h4 {
+    color: #850E35;
+}
+
+h5 {
+    color: #850E35;
 }
